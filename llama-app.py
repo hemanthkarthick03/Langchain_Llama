@@ -10,8 +10,8 @@ import os
 load_dotenv()
 
 os.environ["LANGCHAIN_TRACING_V2"] = "true"
-os.environ["LANGCHAIN_PROJECT"]="App-LLM"
-os.environ["LANGCHAIN_API_KEY"] = "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"
+os.environ["LANGCHAIN_PROJECT"] = LANGCHAIN_PROJECT
+os.environ["LANGCHAIN_API_KEY"] = LANGCHAIN_API_KEY
 
 ## Prompt Template
 
