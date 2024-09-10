@@ -5,19 +5,6 @@ Sure! Below is a `README.md` file for your project. This file provides an overvi
 ```markdown
 # Langchain Demo with Llama
 
-This project demonstrates how to integrate Langchain with the Llama language model using Streamlit. The application allows users to input questions and receive responses from the Llama model.
-
-## Table of Contents
-
-- [Langchain Demo with Llama](#langchain-demo-with-llama)
-  - [Table of Contents](#table-of-contents)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Environment Variables](#environment-variables)
-  - [Project Structure](#project-structure)
-  - [License](#license)
-  - [Acknowledgements](#acknowledgements)
-
 ## Installation
 
 1. **Clone the repository**:
